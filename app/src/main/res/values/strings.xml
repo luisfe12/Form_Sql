@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Conexion_sqlSERVER</string>
+    <string name="Titulo">Registro Producto</string>
+    <string name="edtCodigo">Codigo</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="edtNombre">Nombre producto</string>
+    <string name="edtPrecio">Precio</string>
+    <string name="edtFabricante">Nombre Fabricante</string>
+    <string name="btn_Agregar">Agregar Producto</string>
+    <string name="btn_Modificar">Modificar Producto</string>
+    <string name="btn_Eliminar">Eliminar Producto</string>
+</resources>
